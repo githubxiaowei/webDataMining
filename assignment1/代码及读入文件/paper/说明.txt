@@ -1,0 +1,18 @@
+原始文件
+paper-citation-network.txt
+paper_ids.txt
+
+代码生成文件
+1.paper2id.cpp 
+读入 paper_ids.txt 
+输出 pid.txt
+读入 paper-citation-network.txt
+输出 pcn.txt
+
+2.pagerank_paper.cpp
+读入 pcn.txt paper_ids.txt 
+输出 paper_pagerank.txt
+
+中间文件，保存迭代次数及pagerank向量
+paper_vec.txt
+

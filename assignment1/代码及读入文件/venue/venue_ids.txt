@@ -1,0 +1,368 @@
+0	{*SEM}
+1	{2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora}
+2	{ACL}
+3	{ACL-2012 Special Workshop on Rediscovering 50 Years of Discoveries}
+4	{ACL-IJCNLP: Student Research Workshop papers}
+5	{AHA!-Workshop on Information Discovery in Text}
+6	{AJCL}
+7	{ANLP}
+8	{ATS-MA}
+9	{BEA}
+10	{BUCC}
+11	{BioNLP }
+12	{CAtoCL}
+13	{CL}
+14	{CLP}
+15	{CLTW}
+16	{COLING}
+17	{CVSC}
+18	{CoNLL}
+19	{CogACLL}
+20	{CogALex}
+21	{Coling 2008: Proceedings of the 2nd workshop on Information Retrieval for Question Answering}
+22	{Coling 2008: Proceedings of the workshop Multi-source Multilingual Information Extraction and Summarization}
+23	{Coling 2008: Proceedings of the workshop on Cross-Framework and Cross-Domain Parser Evaluation}
+24	{Coling 2008: Proceedings of the workshop on Grammar Engineering Across Frameworks}
+25	{Coling 2008: Proceedings of the workshop on Human Judgements in Computational Linguistics}
+26	{Coling 2008: Proceedings of the workshop on Knowledge and Reasoning for Answering Questions}
+27	{Coling 2008: Proceedings of the workshop on Speech Processing for Safety Critical Translation and Pervasive Applications}
+28	{ComAComA}
+29	{CompuTerm International Workshop On Computational Terminology}
+30	{ComputEL}
+31	{Computational Lexical Semantics Workshop}
+32	{Dialogue in Motion}
+33	{DiscoMT}
+34	{EACL}
+35	{EMNLP}
+36	{ENLG}
+37	{Events: Definition, Detection, Coreference, and Representation}
+38	{Frame Semantics in NLP: A Workshop in Honor of Chuck Fillmore (1929-2014)}
+39	{HLT}
+40	{HLT-NAACL Companion Volume: Student Research Workshop and Doctoral Consortium}
+41	{HaCat}
+42	{HyTra}
+43	{ICCS}
+44	{ICPT}
+45	{IJCNLP}
+46	{INLG}
+47	{INLG and SIGDIAL 2014 Joint Session}
+48	{IWCS}
+49	{IWPT}
+50	{Interactive Question Answering Workshop}
+51	{International Joint Workshop On Natural Language Processing In Biomedicine And Its Applications NLPBA BioNLP}
+52	{JEP-TALN-RECITAL 2012, Workshop DEFT 2012: DÉfi Fouille de Textes (DEFT 2012 Workshop: Text Mining Challenge)}
+53	{JEP-TALN-RECITAL 2012, Workshop DEGELS 2012: Défi GEste Langue des Signes (DEGELS 2012: Gestures and Sign Language Challenge)}
+54	{JEP-TALN-RECITAL 2012, Workshop ILADI 2012: Interactions Langagières pour personnes Agées Dans les habitats Intelligents (ILADI 2012: Language Interaction for Elderly in Smart Homes)}
+55	{JEP-TALN-RECITAL 2012, Workshop TALAf 2012: Traitement Automatique des Langues Africaines (TALAf 2012: African Language Processing)}
+56	{Joint Workshop of LINGVIS & UNCLH}
+57	{Joint Workshop on Exploiting Synergies between Information Retrieval and Machine Translation (ESIRMT) and Hybrid Approaches to Machine Translation (HyTra)}
+58	{Joint Workshop on Social Dynamics and Personal Attributes in Social Media}
+59	{Joint Workshop on Statistical Parsing and Semantic Processing of Morphologically Rich Languages}
+60	{Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP}
+61	{LASM}
+62	{LG-LP}
+63	{LREC}
+64	{LT4CloseLang}
+65	{LTCSS}
+66	{LaTeCH}
+67	{Linguistic Annotation Workshop}
+68	{Louhi}
+69	{MUC}
+70	{MWE}
+71	{MoL}
+72	{MultiLing}
+73	{NAACL}
+74	{NLP4ITA}
+75	{Named Entities Workshop (NEWS)}
+76	{OIAF4HLT}
+77	{OntoLex}
+78	{Proceedings of ACL SIGLEX Workshop on Software}
+79	{Proceedings of BioNLP Shared Task 2011 Workshop}
+80	{Proceedings of SRSL 2009 the 2nd Workshop on Semantic Representation of Spoken Language}
+81	{Proceedings of the 11th Meeting of the ACL Special Interest Group on Computational Morphology and Phonology}
+82	{Proceedings of the 2003 EACL Workshop on Morphological Processing of Slavic Languages}
+83	{Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer)}
+84	{Proceedings of the 2009 Workshop on Grammar Engineering Across Frameworks (GEAF 2009)}
+85	{Proceedings of the 2009 Workshop on Knowledge and Reasoning for Answering Questions (KRAQ 2009)}
+86	{Proceedings of the 2009 Workshop on Language Generation and Summarisation (UCNLG+Sum 2009)}
+87	{Proceedings of the 2009 Workshop on Text and Citation Analysis for Scholarly Digital Libraries (NLPIR4DL)}
+88	{Proceedings of the 2010 Named Entities Workshop}
+89	{Proceedings of the 2010 Workshop on Applications of Tree Automata in Natural Language Processing}
+90	{Proceedings of the 2010 Workshop on Companionable Dialogue Systems}
+91	{Proceedings of the 2010 Workshop on Domain Adaptation for Natural Language Processing}
+92	{Proceedings of the 2010 Workshop on GEometrical Models of Natural Language Semantics}
+93	{Proceedings of the 2010 Workshop on NLP and Linguistics: Finding the Common Ground}
+94	{Proceedings of the 2nd workshop on Cross Lingual Information Access (CLIA) Addressing the Information Need of Multilingual Societies}
+95	{Proceedings of the 4th Workshop on Cross Lingual Information Access}
+96	{Proceedings of the 6th Workshop on  Ontologies and Lexical Resources }
+97	{Proceedings of the 6th Workshop on Asian Language Resources}
+98	{Proceedings of the 7th Workshop on Asian Language Resources (ALR7)}
+99	{Proceedings of the ACL 2010 Student Research Workshop}
+100	{Proceedings of the ACL 2011 Workshop on Relational Models of Semantics}
+101	{Proceedings of the ACL-08: HLT Workshop on Mobile Language Processing}
+102	{Proceedings of the BioNLP 2009 Workshop Companion Volume for Shared Task}
+103	{Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods metrics and resources reusable?}
+104	{Proceedings of the EACL 2009 Workshop on Cognitive Aspects of Computational Language Acquisition}
+105	{Proceedings of the EACL 2009 Workshop on Computational Approaches to Semitic Languages}
+106	{Proceedings of the EACL 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference}
+107	{Proceedings of the EACL 2009 Workshop on the Interaction between Linguistics and Computational Linguistics: Virtuous Vicious or Vacuous?}
+108	{Proceedings of the Eighth Workshop on Asian Language Resouces}
+109	{Proceedings of the Fifth International Workshop on Inference in Computational Semantics}
+110	{Proceedings of the Fifth Workshop on Asian Language Resources (ALR-05) and First Symposium on Asian Language Resources Network (ALRN)}
+111	{Proceedings of the First Workshop on Algorithms and Resources for Modelling of Dialects and Language Varieties}
+112	{Proceedings of the First Workshop on Language Technologies for African Languages}
+113	{Proceedings of the First workshop on Unsupervised Learning in NLP}
+114	{Proceedings of the Fourth SIGHAN Workshop on Chinese Language Processing}
+115	{Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics}
+116	{Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Languages}
+117	{Proceedings of the IJCNLP-08 Workshop on Named Entity Recognition for South and South East Asian Languages}
+118	{Proceedings of the NAACL HLT 2009 Workshop on Active Learning for Natural Language Processing}
+119	{Proceedings of the NAACL HLT 2009 Workshop on Semi-supervised Learning for Natural Language Processing}
+120	{Proceedings of the NAACL HLT 2010 First International Workshop on Formalisms and Methodology for Learning by Reading}
+121	{Proceedings of the NAACL HLT 2010 First Workshop on Computational Neurolinguistics}
+122	{Proceedings of the NAACL HLT 2010 Second Workshop on Computational Approaches to Linguistic Creativity}
+123	{Proceedings of the NAACL HLT 2010 Sixth Web as Corpus Workshop}
+124	{Proceedings of the NAACL HLT 2010 Student Research Workshop}
+125	{Proceedings of the NAACL HLT 2010 Workshop on Active Learning for Natural Language Processing}
+126	{Proceedings of the NAACL HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text}
+127	{Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics in a World of Social Media}
+128	{Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon&rsquo;s Mechanical Turk}
+129	{Proceedings of the NAACL HLT 2010 Workshop on Semantic Search}
+130	{Proceedings of the NAACL HLT 2010 Young Investigators Workshop on Computational Approaches to Languages of the Americas}
+131	{Proceedings of the NAACL HLT Workshop on Extracting and Using Constructions in Computational Linguistics}
+132	{Proceedings of the Second Workshop on NLP Challenges in the Information Explosion Era (NLPIX 2010)}
+133	{Proceedings of the Sixth International Workshop on Linguistically Interpreted Corpora (LINC-2005)}
+134	{Proceedings of the Sixth SIGHAN Workshop on Chinese Language Processing}
+135	{Proceedings of the Student Research Workshop at EACL 2009}
+136	{Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology}
+137	{Proceedings of the TextInfer 2011 Workshop on Textual Entailment}
+138	{Proceedings of the Third International Workshop on Cross Lingual Information Access: Addressing the Information Need of Multilingual Societies (CLIAWS3)}
+139	{Proceedings of the Third International Workshop on Paraphrasing (IWP2005)}
+140	{Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics}
+141	{Proceedings of the Twelfth Meeting of the Special Interest Group on Computational Morphology and Phonology}
+142	{Proceedings of the UCNLG+Eval: Language Generation and Evaluation Workshop}
+143	{Proceedings of the Workshop on Automatic Summarization for Different Genres Media and Languages}
+144	{Proceedings of the Workshop on Computational Approaches to Linguistic Creativity}
+145	{Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing}
+146	{Proceedings of the Workshop on Distributional Semantics and Compositionality}
+147	{Proceedings of the Workshop on Geometrical Models of Natural Language Semantics}
+148	{Proceedings of the Workshop on Integer Linear Programming for Natural Language Processing}
+149	{Proceedings of the Workshop on Language in Social Media (LSM 2011)}
+150	{Proceedings of the Workshop on Monolingual Text-To-Text Generation}
+151	{Proceedings of the Workshop on Negation and Speculation in Natural Language Processing}
+152	{Proceedings of the Workshop on Parsing German}
+153	{Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and Future Directions (SEW-2009)}
+154	{Proceedings of the Workshop on Software Engineering Testing and Quality Assurance for Natural Language Processing (SETQA-NLP 2009)}
+155	{Proceedings of the Workshop on Technologies and Corpora for Asia-Pacific Speech Translation (TCAST)}
+156	{Proceedings of the Workshop on Unsupervised and Minimally Supervised Learning of Lexical Semantics}
+157	{SADAATL}
+158	{SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text}
+159	{SIGDIAL}
+160	{SIGHAN Workshop On Chinese Language Processing}
+161	{SIGLEX Workshop On Deep Lexical Acquisition}
+162	{SIGLEX Workshop On Standardizing Lexical Resources}
+163	{SIGMORPHON}
+164	{SIGMORPHON and SIGFSM}
+165	{SIGPHON Workshop On The Computation Of Phonological Constraints}
+166	{SIGSEM Workshop On Prepositions}
+167	{SP}
+168	{SSST}
+169	{STEP}
+170	{SWAIE}
+171	{SocialNLP}
+172	{Software Engineering Testing and Quality Assurance for Natural Language Processing}
+173	{TACL}
+174	{TINLP}
+175	{TTNLS}
+176	{TextGraphs Workshop On Graph Based Methods For Natural Language Processing}
+177	{VL}
+178	{VLC}
+179	{VarDial}
+180	{WASSA}
+181	{WSSANLP}
+182	{WVL}
+183	{Workshop On A Roadmap For Computational Linguistics}
+184	{Workshop On Adaptive Text Extraction And Mining ATEM}
+185	{Workshop On Analysis Of Geographic References}
+186	{Workshop On Analyzing Conversations In Text And Speech}
+187	{Workshop On Annotating And Reasoning About Time And Events}
+188	{Workshop On Applied Interlinguas: Practical Applications Of Interlingual Approaches To NLP}
+189	{Workshop On Asian Language Resources And International Standardization}
+190	{Workshop On Automatic Alignment And Extraction Of Bilingual Domain Ontology For Medical Domain Web Search}
+191	{Workshop On Automatic Information Extraction And Building Of Lexical Semantic Resources For NLP Applications}
+192	{Workshop On Automatic Summarization}
+193	{Workshop On Breadth And Depth Of Semantic Lexicons}
+194	{Workshop On Building And Using Parallel Texts}
+195	{Workshop On Building And Using Parallel Texts: Data Driven Machine Translation And Beyond}
+196	{Workshop On Building Educational Applications Using NLP}
+197	{Workshop On Building Educational Applications Using Natural Language Processing}
+198	{Workshop On Comparing Corpora}
+199	{Workshop On Computational Approaches To Arabic Script-Based Languages}
+200	{Workshop On Computational Approaches To Semitic Languages}
+201	{Workshop On Computational Environments For Grammar Development And Linguistic Engineering}
+202	{Workshop On Computational Natural Language Learning CoNLL}
+203	{Workshop On Computational Phonology}
+204	{Workshop On Computationally Hard Problems And Joint Inference In Speech And Language Processing}
+205	{Workshop On Computer And Internet Supported Education In Language And Speech Technology}
+206	{Workshop On Computer Mediated Language Assessment And Evaluation In Natural Language Processing}
+207	{Workshop On Concept To Speech Generation Systems}
+208	{Workshop On Constraints And Language Processing}
+209	{Workshop On Content Visualization And Intermedia Representations}
+210	{Workshop On Conversational Systems}
+211	{Workshop On Coreference And Its Applications}
+212	{Workshop On Cross-Language Knowledge Induction Workshop}
+213	{Workshop On Current Themes In Computational Phonology And Morphology}
+214	{Workshop On Data-Driven Methods In Machine Translation}
+215	{Workshop On Discourse Annotation}
+216	{Workshop On Discourse Relations And Discourse Markers}
+217	{Workshop On ELearning For Computational Linguistics And Computational Linguistics For ELearning}
+218	{Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics}
+219	{Workshop On Embedded Machine Translation Systems}
+220	{Workshop On Empirical Modeling Of Semantic Equivalence And Entailment}
+221	{Workshop On Enhancing And Using Electronic Dictionaries}
+222	{Workshop On Evaluation Methodologies For Language And Dialogue Systems}
+223	{Workshop On Feature Engineering For Machine Learning In Natural Language Processing}
+224	{Workshop On Finite State Methods In Natural Language Processing}
+225	{Workshop On From Research To Commercial Applications: Making NLP Work In Practice}
+226	{Workshop On Frontiers In Corpus Annotation}
+227	{Workshop On Frontiers In Corpus Annotations II: Pie In The Sky}
+228	{Workshop On Frontiers In Linguistically Annotated Corpora}
+229	{Workshop On Grammar Engineering And Evaluation}
+230	{Workshop On How Can Computational Linguistics Improve Information Retrieval?}
+231	{Workshop On Human Language Technology And Knowledge Management}
+232	{Workshop On Incremental Parsing: Bringing Engineering And Cognition Together}
+233	{Workshop On Information Extraction Beyond The Document}
+234	{Workshop On Information Retrieval With Asian Languages}
+235	{Workshop On Intelligent Scalable Text Summarization}
+236	{Workshop On Intentionality And Structure In Discource Relations}
+237	{Workshop On Interactive Spoken Dialog Systems: Bringing Speech And NLP Together In Real Applications}
+238	{Workshop On Interdisciplinary Approaches To Speech Indexing And Retrieval}
+239	{Workshop On Intrinsic And Extrinsic Evaluation Measures For Machine Translation And/or Summarization}
+240	{Workshop On KRAQ Knowledge And Reasoning For Language Processing}
+241	{Workshop On Language Resources For Translation Work Research And Training}
+242	{Workshop On Learning Structured Information In Natural Language Applications}
+243	{Workshop On Learning Word Meaning From Non-Linguistic Data}
+244	{Workshop On Lexical Semantics And Knowledge Representation}
+245	{Workshop On Linguistic Annotation: Getting The Model Right}
+246	{Workshop On Linguistic Distances}
+247	{Workshop On Linguistically Interpreted Corpora}
+248	{Workshop On Linking Biological Literature Ontologies And Databases}
+249	{Workshop On Linking Biological Literature Ontologies And Databases: Mining Biological Semantics}
+250	{Workshop On Machine Translation In Asia}
+251	{Workshop On Making Sense Of Sense: Bringing Psycholinguistics And Computational Linguistics Together}
+252	{Workshop On Medical Speech Translation}
+253	{Workshop On Morphological And Phonological Learning}
+254	{Workshop On Multi-Word-Expressions In A Multilingual Context}
+255	{Workshop On Multilingual And Mixed-Language Named Entity Recognition}
+256	{Workshop On Multilingual Language Resources And Interoperability}
+257	{Workshop On Multilingual Linguistic Resources}
+258	{Workshop On Multilingual Question Answering MLQA}
+259	{Workshop On Multilingual Summarization And Question Answering}
+260	{Workshop On NLP And XML NLPXML}
+261	{Workshop On NLP And XML NLPXML Multi-Dimensional Markup}
+262	{Workshop On NLP And XML NLPXML RDF/RDFS And OWL In Language Technology}
+263	{Workshop On Natural Language Generation}
+264	{Workshop On Natural Language Generation EWNLG}
+265	{Workshop On Natural Language Processing For Communication Aids}
+266	{Workshop On Natural Language Processing In Biomedicine}
+267	{Workshop On Natural Language Processing In The Biomedical Domain}
+268	{Workshop On New Methods In Language Processing And Computational Natural Language Learning}
+269	{Workshop On New Text Wikis And Blogs And Other Dynamic Text Sources}
+270	{Workshop On Ontology Learning And Population: Bridging The Gap Between Text And Knowledge}
+271	{Workshop On Open-Domain Question Answering}
+272	{Workshop On Operational Factors In Practical Robust Anaphora Resolution For Unrestricted Texts}
+273	{Workshop On Paraphrasing}
+274	{Workshop On Parsing Technology}
+275	{Workshop On Partially Automated Techniques For Transcribing Naturally Occurring Continuous Speech}
+276	{Workshop On Patent Corpus Processing}
+277	{Workshop On Pragmatics Of Question Answering}
+278	{Workshop On Processing Of Dependency-Based Grammars}
+279	{Workshop On Psycho-Computational Models Of Human Language Acquisition}
+280	{Workshop On Psychocomputational Models Of Human Language Acquisition}
+281	{Workshop On ROMAND Robust Methods In Analysis Of Natural Language Data}
+282	{Workshop On RObust Methods In Analysis Of Natural Language Data ROMAND}
+283	{Workshop On Reading Comprehension Tests As Evaluation For Computer-Based Language Understanding Systems}
+284	{Workshop On Recent Advances In Dependency Grammar}
+285	{Workshop On Recent Advances In Natural Language Processing And Information Retrieval}
+286	{Workshop On Referring Phenomena In A Multimedia Context And Their Computational Treatment}
+287	{Workshop On Research Directions In Dialogue Processing}
+288	{Workshop On Reversible Grammar In Natural Language Processing}
+289	{Workshop On SEMANET: Building And Using Semantic Networks}
+290	{Workshop On Scalable Natural Language Understanding}
+291	{Workshop On Scalable Natural Language Understanding (ScaNaLU)}
+292	{Workshop On Sentiment And Subjectivity In Text}
+293	{Workshop On Sharing Tools And Resources}
+294	{Workshop On Software Engineering And Architecture Of Language Technology Systems SEALTS}
+295	{Workshop On Speech And Natural Language}
+296	{Workshop On Speech-To-Speech Translation: Algorithms And Systems}
+297	{Workshop On Spoken Language Translation}
+298	{Workshop On Spoken Language Understanding For Conversational Systems And Higher Level Linguistic Information For Speech Processing}
+299	{Workshop On Strategic Computing - Natural Language}
+300	{Workshop On Syntactic And Semantic Complexity In Natural Language Processing Systems}
+301	{Workshop On TIPSTER Text Program}
+302	{Workshop On Tagging Text With Lexical Semantics: Why What And How?}
+303	{Workshop On Task-Focused Summarization And Question Answering}
+304	{Workshop On Temporal And Spatial Information Processing}
+305	{Workshop On Text Meaning}
+306	{Workshop On Text Meaning And Interpretation}
+307	{Workshop On Text Summarization}
+308	{Workshop On Text Summarization Branches Out}
+309	{Workshop On The Acquisition Of Lexical Knowledge From Text}
+310	{Workshop On The Balancing Act: Combining Symbolic And Statistical Approaches To Language}
+311	{Workshop On The Computational Treatment Of Nominals}
+312	{Workshop On The Lexicon And Figurative Language}
+313	{Workshop On The Relation Of Discourse/Dialogue Structure And Reference}
+314	{Workshop On Towards Standards And Tools For Discourse Tagging}
+315	{Workshop On Tree Adjoining Grammar And Related Formalisms}
+316	{Workshop On Unsupervised Learning In Natural Language Processing}
+317	{Workshop On Unsupervised Lexical Acquisition}
+318	{Workshop On Usage Of WordNet In Natural Language Processing Systems}
+319	{Workshop On Very Large Corpora}
+320	{Workshop On Very Large Corpora: Academic And Industrial Perspectives}
+321	{Workshop On Web As Corpus}
+322	{Workshop On Word Sense Disambiguation: Recent Successes And Future Directions}
+323	{Workshop On Word Senses And Multi-Linguality}
+324	{Workshop on Analysis of Large Scale Social Interaction in MOOCs}
+325	{Workshop on Applications of Tree Automata Techniques in Natural Language Processing}
+326	{Workshop on Argumentation Mining}
+327	{Workshop on Balto-Slavonic Natural Language Processing}
+328	{Workshop on Bridging the Gap: Academic and Industrial Research in Dialog Technologies}
+329	{Workshop on Cognitive Aspects of Computational Language Acquisition}
+330	{Workshop on Cognitive Modeling and Computational Linguistics}
+331	{Workshop on Computational Approaches to Code Switching}
+332	{Workshop on Computational Approaches to Deception Detection}
+333	{Workshop on Computational Approaches to Figurative Language}
+334	{Workshop on Computational Approaches to Semitic Languages: Common Issues and Resources}
+335	{Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality}
+336	{Workshop on Computational Linguistics and Writing}
+337	{Workshop on Computational Linguistics for Literature}
+338	{Workshop on Computational Models of Language Acquisition and Loss}
+339	{Workshop on Deep Linguistic Processing}
+340	{Workshop on Detecting Structure in Scholarly Discourse}
+341	{Workshop on Embodied Language Processing}
+342	{Workshop on Evaluation Metrics and System Comparison for Automatic Summarization}
+343	{Workshop on Extra-Propositional Aspects of Meaning in Computational Linguistics}
+344	{Workshop on Future directions and needs in the Spoken Dialog Community: Tools and Data (SDCTD 2012)}
+345	{Workshop on Grammar-Based Approaches to Spoken Language Processing}
+346	{Workshop on Innovative Hybrid Approaches to the Processing of Textual Data}
+347	{Workshop on Interactive Language Learning, Visualization, and Interfaces}
+348	{Workshop on Multilingual Modeling}
+349	{Workshop on Predicting and Improving Text Readability for target reader populations}
+350	{Workshop on Prepositions}
+351	{Workshop on Semantic Analysis in Social Media}
+352	{Workshop on Semantic Evaluations (SemEval)}
+353	{Workshop on Semantic Interpretation in an Actionable Context}
+354	{Workshop on Speech and Language Processing for Assistive Technologies}
+355	{Workshop on Speech and Multimodal Interaction in Assistive Environments}
+356	{Workshop on Statistical Machine Translation}
+357	{Workshop on Statistical Parsing of Morphologically-Rich Languages}
+358	{Workshop on Textual Entailment and Paraphrasing}
+359	{Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web)}
+360	{Workshop on the Induction of Linguistic Structure}
+361	{Workshop:  BioNLP Workshop On Linking Natural Language And Biology}
+362	{Workshop:  Biological translational and clinical language processing}
+363	{Workshop:  Chinese Language Processing}
+364	{Workshop:  Conference On Question Answering In Restricted Domains}
+365	{Workshop:  Conference On Reference Resolution And Its Applications}
+366	{Workshop: Will We Ever Really Replace the N-gram Model? On the Future of Language Modeling for HLT}
+367	{metaphor in NLP}

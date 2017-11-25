@@ -1,0 +1,9 @@
+原始文件
+author_citation_network.txt
+author_ids.txt
+
+中间文件，记录迭代次数及pagerank向量
+author_vec.txt
+
+最终文件
+author_pagerank.txt

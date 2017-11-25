@@ -1,0 +1,24 @@
+原始文件
+acl-metadata.txt 
+paper-citation-network.txt
+
+代码生成文件
+1.venue2id.cpp
+读入 acl-metadata.txt
+输出 venue_ids.txt
+
+2.paper2venue.cpp
+读入 acl-metadata.txt
+输出 paper2venue.txt
+
+3.paper2venue_id.cpp
+读入 paper2venue.txt
+输出 paper2venue_id.txt
+
+4.vcn.cpp
+读入 pid.txt paper2venue_id.txt paper-citation-network.txt
+输出 vcn.txt
+
+5.pagerank_venue.cpp
+读入 venue_ids.txt vcn.txt
+输出 venue_pagerank.txt
